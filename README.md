@@ -29,3 +29,15 @@ It's a straightforward solution to help users manage their banking transactions 
 1. **Clone the repository**:
    ```bash
    git clone git@github.com:KhotsoDrax/Hex_Softwares_Projects.git
+   
+2. **Run the following command to compile the program**
+   ```bash
+   javac BankingSystem.java
+   
+3. **If you encounter encoding errors related to special characters like emojis, you can compile the program using UTF-8 encoding:**
+   ```bash
+   javac -encoding UTF-8 BankingSystem.java
+
+4. **To run the program and see the banking interphase:**
+   ```bash
+   java BankingSystem
