@@ -41,3 +41,35 @@ It's a straightforward solution to help users manage their banking transactions 
 4. **To run the program and see the banking interphase:**
    ```bash
    java BankingSystem
+
+
+# 🎓 Student Grade Calculator
+
+The **Student Grade Calculator**! This simple grading system allows users to:
+
+- Input the number of subjects
+- Add the grades
+- Calculate the marks for the student
+- And give you the avarage marks for the student
+- Give a grade according to the obtained mark in percentages
+
+It's a straightforward solution to help users manage their marking and grading easily. 🚀
+
+### Prerequisites
+- **Java JDK** (version 8 or higher)
+- A code editor or IDE (e.g., **IntelliJ IDEA**, **Eclipse**, or **VS Code**)
+
+### 📂 Project Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone git@github.com:KhotsoDrax/Hex_Softwares_Projects.git
+
+2. **Run the following command to compile the program**
+   ```bash
+   javac StudentGradeCalculator.java
+
+
+3. **To run the program and see the banking interphase:**
+   ```bash
+   java StudentGradeCalculator
